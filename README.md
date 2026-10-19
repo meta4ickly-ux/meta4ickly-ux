@@ -10,9 +10,6 @@
 - 🧠 Agent-built software — agents that study how features work, then recreate them
 - 🎮 Minecraft developer — building for Mojang and Minecraft
 
-### Building with
-- **[nxvega311](https://github.com/nxvega311)** (Nicolas Vega) — partner. Infrastructure & web expertise, ex-GoDaddy — the backbone behind the build.
-
 ### Currently exploring
 - AI coding agents (Claude Code, Cursor)
 - Model Context Protocol (MCP) servers
