@@ -15,6 +15,9 @@
 - Model Context Protocol (MCP) servers
 - Multi-agent workflows and handoffs
 
+### Inspiration
+- Tina Huang — ex-Meta data scientist, YouTuber, founder of Lonely Octopus. Motto: "Always minimize effort and maximize outcome!" — the same spirit as maxxEFF.
+
 ### Find me
 - LinkedIn: [meta4ickly](https://www.linkedin.com/in/meta4ickly)
 - YouTube: @jemstur — home of the JeTstream playlist 🎶
