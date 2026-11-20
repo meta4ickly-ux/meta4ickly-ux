@@ -1,8 +1,11 @@
 # meta4ickly-ux
 
-**Jose Marquez** — Production Crew at SERVPRO of Northwest Portland · Open to work (Arizona · on-site / hybrid)
+**Jose Marquez** — Phoenix, AZ · Open to work (Arizona · on-site / hybrid)
 
 **Building a call center for LLMs** — a coordinated team of AI agents that pick up tasks and get work done together.
+
+- United Auto Film AZ: https://unitedautofilm.com
+- llamaXia: https://llamaxia.xyz
 
 ### What I'm working on
 - 🤖 Multi-agent orchestration — teams of LLMs (Muse, Grok and friends) operating as one unit
@@ -22,5 +25,3 @@
 - LinkedIn: [meta4ickly](https://www.linkedin.com/in/meta4ickly)
 - YouTube: @jemstur — home of the JeTstream playlist 🎶
 - Instagram: @quez.knox
-
-*Previously Production Crew at SERVPRO of Northwest Portland — "Like it never even happened."*
